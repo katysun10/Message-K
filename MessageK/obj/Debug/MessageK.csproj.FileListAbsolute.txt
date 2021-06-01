@@ -1,0 +1,5 @@
+/Users/katysun10/Projects/MessageK/MessageK/bin/Debug/MessageK.dll
+/Users/katysun10/Projects/MessageK/MessageK/bin/Debug/MessageK.pdb
+/Users/katysun10/Projects/MessageK/MessageK/obj/Debug/MessageK.csproj.CoreCompileInputs.cache
+/Users/katysun10/Projects/MessageK/MessageK/obj/Debug/MessageK.dll
+/Users/katysun10/Projects/MessageK/MessageK/obj/Debug/MessageK.pdb

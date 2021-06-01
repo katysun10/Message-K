@@ -1,0 +1,10 @@
+﻿{
+  "Name": "Message K",
+  "Author": "Katy Sun",
+  "Version": "1.0.0",
+  "Description": "tells you when a K is pressed on the console",
+  "UniqueID": "KatySun.MessageK",
+  "EntryDll": "MessageK.dll",
+  "MinimumApiVersion": "3.0.0",
+  "UpdateKeys": []
+}
